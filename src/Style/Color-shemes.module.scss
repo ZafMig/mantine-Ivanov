@@ -1,0 +1,27 @@
+.icon {
+    display: flex;
+    justify-content: left;
+    position: relative;
+    width: 22rem;
+    height: 22rem;
+  }
+  
+  .dark {
+     dark {
+      display: none;
+    }
+  
+     light {
+      display: block;
+    }
+  }
+  
+  .light {
+     light {
+      display: none;
+    }
+  
+     dark {
+      display: block;
+    }
+  }
